@@ -1,2 +1,2 @@
 # nodeJS
-node-crud-opearation
+nodeJS-crud-operation
